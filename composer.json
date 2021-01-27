@@ -42,7 +42,6 @@
         "phpspec/phpspec": "^6.2",
         "phpstan/phpstan": "^0.12.32",
         "phpstan/phpstan-strict-rules": "^0.12.2",
-        "roave/security-advisories": "dev-master",
         "supervisorphp/configuration": "^0.2"
     },
     "scripts": {
