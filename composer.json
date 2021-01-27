@@ -1,5 +1,5 @@
 {
-    "name": "supervisorphp/supervisor",
+    "name": "scorpse/supervisor",
     "description": "PHP library for managing Supervisor through XML-RPC API",
     "homepage": "http://supervisorphp.com",
     "license": "MIT",
